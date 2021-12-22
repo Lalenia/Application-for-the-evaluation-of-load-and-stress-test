@@ -1,7 +1,9 @@
 # Application for the evaluation of load and stress tests
-output in a file.
 
+"This project was made during my internship at IVU Traffic Technologies AG and belongs entirely to the company. The use from others is not allowed. 
+This code therefor is not the end product and sensitive information are replaced with section signs."
 
+## The project
 As part of quality assurance, companies load and stress tests to ensure the
 stability of the company's software. During these tests
 the performance data of the test systems is collected with monitoring software for example based on the open source
